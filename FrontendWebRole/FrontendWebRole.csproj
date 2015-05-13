@@ -201,7 +201,7 @@
     <None Include="Project_Readme.html" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\T5.Common\T5.Common.csproj">
+    <ProjectReference Include="..\T5.Common\T5.Common.csproj">
       <Project>{5e5d6568-e5ab-4a53-ae9c-4fee3306257f}</Project>
       <Name>T5.Common</Name>
     </ProjectReference>

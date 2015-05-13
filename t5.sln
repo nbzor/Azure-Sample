@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrontendWebRole", "Frontend
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackendWorker", "BackendWorker\BackendWorker.csproj", "{9E07BF05-2723-4DC7-AD04-C710C3308C1E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T5.Common", "..\T5.Common\T5.Common.csproj", "{5E5D6568-E5AB-4A53-AE9C-4FEE3306257F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T5.Common", "T5.Common\T5.Common.csproj", "{5E5D6568-E5AB-4A53-AE9C-4FEE3306257F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
