@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="T5.Common.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="StorageConnectionString" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">DefaultEndpointsProtocol=https;AccountName=t5cloud;AccountKey=n76WjqgBmcJV+ZKHgOOlYIVyd8I0PN10TOeaVjtcOpUo4vGXf4fQgc2BxCjdzancretFN4NzbZMBMA13Db2wUA==</Value>
+    </Setting>
+    <Setting Name="BlobStorageString" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">photos</Value>
+    </Setting>
+    <Setting Name="QueueStorageString" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">queuetask</Value>
+    </Setting>
+    <Setting Name="TableStorageString" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">tabletask</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
